@@ -76,6 +76,10 @@ tidydata1 <- rbind(tidytest,tidytrain)
 write.table(tidydata1, file = "tidy_data_set1.txt", row.names = FALSE)
 ### END OF Exercise 1 ###
 
+#### FOR ASSIGNMENT SUBMISSION REVIEWING PURPOSES JUST EXECUTE UNTIL THIS POINT (EXERCISE 1) ####
+
+#-----------------------------------------------------------------------------------------------#
+
 ### Exercise 2. Extracts only the measurements on the mean and standard deviation for each measurement ###
 # Subsets tidydata data table removing non necessary columns:
 # Output is a data table object called "tidydata2" with the following columns:
