@@ -3,9 +3,11 @@
 ### by anan4
 
 
+
 This README file includes the instructions to execute the script stored in the run_analysis.R file also included in this github repo. This script provides the solution of the 5 exercises included in the assignment.
 
 The script is divided in 6 parts. Initial and end of each part (code block) are clearly identified by the comments in the script:
+
 0. Initial settings: Must be executed to run at the beginning. Can be adjusted to the particular settings of the developer
 1. Exercise 1: Execute this script to get the results of first exercise.
 2. Exercise 2: Execute this script to get the results of first exercise.
