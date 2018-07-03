@@ -1,6 +1,6 @@
 # Data Cleaning Assignment
-# Coursuera Data Cleaning course
-## by anan4
+## Coursuera's Data Cleaning course
+### by anan4
 
 
 This README file includes the instructions to execute the script stored in the run_analysis.R file also included in this github repo. This script provides the solution of the 5 exercises included in the assignment.
