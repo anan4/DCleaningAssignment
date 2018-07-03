@@ -16,6 +16,7 @@ The script is divided in 6 parts. Initial and end of each part (code block) are 
 5. Exercise 5: Execute this script to get the results of this exercise.
 
 ## IMPORTANT: Scripts must be excuted in order, from 0 to 5, do not execute them randomly. You can also execute the whole script at once
+## For reviewing purposes just execute parts 0 and 1 and check variable "tidydata1"
 
 The output of every exercise execution is:
 1.  A data.table named "tidydata%" where % is the exercise number 
