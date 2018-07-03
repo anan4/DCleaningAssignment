@@ -1,0 +1,20 @@
+### DATA DICTIONARY EXERCISE 1 DATA CLEANING ASSIGNMENT
+
+Subject
+  Who perfomed the test. A total of 30 people
+  Integer
+  1..30
+  
+Activity_code
+  Activity that the subject was performing during the test
+  Integer
+  1..6
+    1 WALKING
+    2 WALKING_UPSTAIRS
+    3 WALKING_DOWNSTAIRS
+    4 SITTING
+    5 STANDING
+    6 LAYING
+
+
+Measurements <- A total of 561 variables acording to features.txt
